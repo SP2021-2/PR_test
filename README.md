@@ -1,9 +1,10 @@
 # 자기소개
 ### Hi there 👋
 
-## My name is Nayong Seong.
+## 내 이름은 성나영입니다. 🙂
 ---
-My age is 22
+나는 22살이에요.
+제 취미는 그림그리기 입니다.
 
 <!--
 **sna0e/sna0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
