@@ -1,4 +1,9 @@
+# 자기소개
 ### Hi there 👋
+
+## My name is Nayong Seong.
+---
+My age is 22
 
 <!--
 **sna0e/sna0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
