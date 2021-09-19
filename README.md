@@ -1,10 +1,14 @@
-# 자기소개
-### Hi there 👋
+# sna0e is "Nayoung Seong"
+## 안녕하세요! 성장하고 있는 예비 개발자 성나영입니다 🙂
 
-## 내 이름은 성나영입니다. 🙂
----
-나는 22살이에요.
-제 취미는 그림그리기 입니다.
+🏫 Soongsil Univ. Software
+💕 Drawing, Playing the piano and Imagining
+
+<hr>
+
+# I'm currently learning ...
+* C, C++, Java, Python, JavaScript
+* React, tensorflow
 
 <!--
 **sna0e/sna0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
