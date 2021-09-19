@@ -1,7 +1,7 @@
-# sna0e is "Nayoung Seong"
-## 안녕하세요! 성장하고 있는 예비 개발자 성나영입니다 🙂
+# 🙂 sna0e is "Nayoung Seong"
+안녕하세요! 성장하고 있는 예비 개발자 성나영입니다 
 
-🏫 Soongsil Univ. Software
+🏫 Soongsil Univ. Software <br>
 💕 Drawing, Playing the piano and Imagining
 
 <hr>
