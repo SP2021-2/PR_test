@@ -1,0 +1,9 @@
+num = (int)(input())
+num2 = 1
+for i in range(num):
+    for j in range(num - num2):
+        print(" ",end = "")
+    for k in range(num2):
+        print("*",end ="")
+    print()
+    num2 += 1
